@@ -1,17 +1,17 @@
 <table align="center">
     <tr>
         <td align="center" width="25%">
-            <img src="https://raw.githubusercontent.com/GreemDev/ryuassets/refs/heads/main/RyujinxApp_1024.png" alt="Ryujinx" >
+            <img src="https://github.com/Yashirow/Ryujinx/blob/master/src/Ryujinx.UI.Common/Resources/Logo_Ryujinx.png?raw=true" alt="Ryujinx" >
         </td>
         <td align="center" width="75%">
           
 # Ryujinx
           
-[![Release workflow](https://github.com/GreemDev/Ryujinx/actions/workflows/release.yml/badge.svg)](https://github.com/GreemDev/Ryujinx/actions/workflows/release.yml)
+[![Release workflow](https://github.com/Yashirow/Ryujinx/actions/workflows/release.yml/badge.svg)](https://github.com/Yashirow/Ryujinx/actions/workflows/release.yml)
 [![Latest release](https://img.shields.io/github/v/release/GreemDev/Ryujinx)](https://github.com/GreemDev/Ryujinx/releases/latest)
   <br>
-[![Canary workflow](https://github.com/GreemDev/Ryujinx/actions/workflows/canary.yml/badge.svg)](https://github.com/GreemDev/Ryujinx/actions/workflows/canary.yml)
-[![Latest canary release](https://img.shields.io/github/v/release/GreemDev/Ryujinx-Canary?label=canary)](https://github.com/GreemDev/Ryujinx-Canary/releases/latest)
+[![Canary workflow](https://github.com/Yashirow/Ryujinx/actions/workflows/canary.yml/badge.svg)](https://github.com/Yashirow/Ryujinx/actions/workflows/canary.yml)
+[![Latest canary release](https://img.shields.io/github/v/release/Yashirow/Ryujinx-Canary?label=canary)](https://github.com/Yashirow/Ryujinx-Canary/releases/latest)
         </td>
     </tr>
 </table>
@@ -20,7 +20,7 @@
   Ryujinx is an open-source Nintendo Switch emulator, originally created by gdkchan, written in C#.
   This emulator aims at providing excellent accuracy and performance, a user-friendly interface and consistent builds.
   It was written from scratch and development on the project began in September 2017.
-  Ryujinx is available on GitHub under the <a href="https://github.com/GreemDev/Ryujinx/blob/master/LICENSE.txt" target="_blank">MIT license</a>.
+  Ryujinx is available on GitHub under the <a href="https://github.com/Yashirow/Ryujinx/blob/master/LICENSE.txt" target="_blank">MIT license</a>.
   <br />
 </p>
 <p align="center">
@@ -57,13 +57,13 @@ failing to meet this requirement may result in a poor gameplay experience or une
 Stable builds are made every so often onto a separate "release" branch that then gets put into the releases you know and love. 
 These stable builds exist so that the end user can get a more **enjoyable and stable experience**.
 
-You can find the latest stable release [here](https://github.com/GreemDev/Ryujinx/releases/latest).
+You can find the latest stable release [here](https://github.com/Yashirow/Ryujinx/releases/latest).
 
 Canary builds are compiled automatically for each commit on the master branch.
 While we strive to ensure optimal stability and performance prior to pushing an update, these builds **may be unstable or completely broken**.
 These canary builds are only recommended for experienced users.
 
-You can find the latest canary release [here](https://github.com/GreemDev/Ryujinx-Canary/releases/latest).
+You can find the latest canary release [here](https://github.com/Yashirow/Ryujinx-Canary/releases/latest).
 
 ## Documentation
 
